@@ -1,43 +1,53 @@
-# Личный проект «Седона»
 
-* Студент: [Anton Bogza](https://up.htmlacademy.ru/htmlcss/38/user/170338).
-* Наставник: [Дарья Шестерина](https://htmlacademy.ru/profile/id221124).
+# Sedona
 
----
+**Sedona** is a project created as part of the "HTML and CSS. Professional Website Layout" course by [HTML Academy](https://htmlacademy.ru). The project is focused on building a responsive website for the fictional city of Sedona.
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+## Project Structure
 
----
+- **Source Files**: The main development files are located in the root directory.
+- **Styles**: Custom styles are located in the `styles/` directory.
+- **Assets**: Fonts and images are stored in the `fonts/` and `images/` directories, respectively.
 
-### Памятка
+## Getting Started
 
-#### 1. Зарегистрируйтесь на Гитхабе
+To work with this project locally, follow these steps:
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+### Prerequisites
 
-#### 2. Создайте форк
+Ensure you have the following installed:
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/170338-sedona-38) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+- [Node.js](https://nodejs.org/)
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
+### Installation
 
-Получится вот так:
+1. **Clone the Repository**:
+   ```bash
+   git clone git@github.com:AvtRikki/sedona.git
+   ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd sedona
+   ```
+3. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
+### Running the Project
 
-#### 3. Клонируйте репозиторий на свой компьютер
+To start the project locally:
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+```bash
+npm start
+```
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037955-6c20c16c-7bae-11e7-9e1a-c52010042976.jpg">
+This will serve the project on a local development server.
 
-Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
+## Contributing
 
-#### 4. Начинайте обучение!
+Contributions are welcome! Please fork this repository and submit pull requests for any improvements or bug fixes.
 
----
+## License
 
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
-
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
